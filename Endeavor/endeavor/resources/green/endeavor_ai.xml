@@ -1,0 +1,64 @@
+<endeavor_ai>
+	<action_priority_list>
+		<action_priority>DRAW</action_priority>
+		<action_priority>OCCUPY</action_priority>
+		<action_priority>SHIP</action_priority>
+		<action_priority>ATTACK</action_priority>
+		<action_priority>PAYMENT</action_priority>
+	</action_priority_list>
+	
+	<city_token_priority_list>
+		<city_token_priority>INDUSTRY</city_token_priority>
+		<city_token_priority>POLITICS</city_token_priority>
+		<city_token_priority>CULTURE</city_token_priority>
+		<city_token_priority>FINANCE</city_token_priority>
+		<city_token_priority>PAYMENT</city_token_priority>
+		<city_token_priority>OCCUPY_DRAW</city_token_priority>
+		<city_token_priority>SHIP_DRAW</city_token_priority>
+		<city_token_priority>ATTACK</city_token_priority>
+	</city_token_priority_list>
+
+	<ship_token_priority_list>
+		<ship_token_priority>INDUSTRY</ship_token_priority>
+		<ship_token_priority>POLITICS</ship_token_priority>
+		<ship_token_priority>CULTURE</ship_token_priority>
+		<ship_token_priority>FINANCE</ship_token_priority>
+		<ship_token_priority>PAYMENT</ship_token_priority>
+		<ship_token_priority>OCCUPY_DRAW</ship_token_priority>
+		<ship_token_priority>SHIP_DRAW</ship_token_priority>
+		<ship_token_priority>ATTACK</ship_token_priority>
+	</ship_token_priority_list>
+
+	<building_payment_priority_list>
+		<building_payment_priority>FORTRESS</building_payment_priority>
+		<building_payment_priority>GUILD_HALL</building_payment_priority>
+		<building_payment_priority>DOCKS</building_payment_priority>
+		<building_payment_priority>COLONIAL_HOUSE</building_payment_priority>
+		<building_payment_priority>TRADE_OFFICE</building_payment_priority>
+		<building_payment_priority>CARTOGRAPHER</building_payment_priority>
+		<building_payment_priority>SHIPYARD</building_payment_priority>
+		<building_payment_priority>MARKET</building_payment_priority>
+		<building_payment_priority>BARRACKS</building_payment_priority>
+		<building_payment_priority>EXCHANGE</building_payment_priority>
+		<building_payment_priority>MUSEUM</building_payment_priority>
+		<building_payment_priority>PARLIAMENT</building_payment_priority>
+	</building_payment_priority_list>
+
+	<building_select_priority_list>
+		<building_select_priority>PARLIAMENT</building_select_priority>
+		<building_select_priority>EXCHANGE</building_select_priority>
+		<building_select_priority>MUSEUM</building_select_priority>
+		<building_select_priority>FORTRESS</building_select_priority>
+		<building_select_priority>TRADE_OFFICE</building_select_priority>
+		<building_select_priority>CARTOGRAPHER</building_select_priority>
+		<building_select_priority>GUILD_HALL</building_select_priority>
+		<building_select_priority>UNIVERSITY</building_select_priority>
+		<building_select_priority>BANK</building_select_priority>
+		<building_select_priority>WORKSHOP</building_select_priority>
+		<building_select_priority>MARKET</building_select_priority>
+		<building_select_priority>SHIPYARD</building_select_priority>
+		<building_select_priority>BARRACKS</building_select_priority>
+		<building_select_priority>THEATRE</building_select_priority>
+		<building_select_priority>DOCKS</building_select_priority>
+	</building_select_priority_list>
+</endeavor_ai>
